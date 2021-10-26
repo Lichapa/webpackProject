@@ -8,10 +8,6 @@
 > Bundle source code to gain understanding of webpark.
 > import modules.
 > load css by importing css file within a javascript module.
-
-# Live View
-> To view this project live, please visit this [page](https://Lichapa.github.io/webpackProject/src/index.html)
-
 # Getting Started
 
 > Clone this repo https://github.com/lichapa/webpackProject
